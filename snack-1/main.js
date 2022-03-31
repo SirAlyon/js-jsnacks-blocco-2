@@ -3,6 +3,8 @@ Il programma stampa la somma di tutti i numeri inseriti.
 Esegui questo programma in due versioni, con il for e con il while.
  */
 
+
+//for version
 /*  let sum = 0
 
 for (let i=0; i < 5; i++){
@@ -15,6 +17,7 @@ console.log(sum);
 
 
 
+//while version
 let i = 0
 let sum = 0
 
